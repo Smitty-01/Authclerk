@@ -35,3 +35,10 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 "# Authclerk" 
+MAKE A ENV FILE IN ROOT AND ADD A NEW CLERK API
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY= YOUR PUBLISHABLE KEY
+
+CLERK_SECRET_KEY=YOUR SECRET KEY
+
+NEXT_PUBLIC_SIGN_IN_URL=sign-in  
+NEXT_PUBLIC_SIGN_UP_URL=sign-up
